@@ -43,6 +43,7 @@ In this assignment You have to create a pet adoption platform where users can br
 you have to create private repo in our Google Classroom . here is the Link
 
 # [https://classroom.github.com/a/gUlZfxsK](https://classroom.github.com/a/gUlZfxsK)
+BUT I DON'T GET THE ACCESS SO I SHOW AS A N0RMAR REPO
 
 ## APIs
 
